@@ -1,4 +1,4 @@
-//pascal's triangle
+//Leetcode 118: Pascal's Triangle
 
 //1
 //1 1

@@ -1,3 +1,4 @@
+// Leetcode 1422: Maximum Score After Splitting a String
 // 1 0 0 1 0 0 | 1 1 0 1 0
 
 #include <bits/stdc++.h>

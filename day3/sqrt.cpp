@@ -1,8 +1,8 @@
+//Leetcode 69: Sqrt(x)
 #include <bits/stdc++.h>
 using namespace std;
 
 int mysqrt(int x){
-    //assume x is INT_MAX
     int l = 1;
     int r = x;
     while(l < r){

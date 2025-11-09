@@ -2,7 +2,7 @@
 using namespace std;
 
 void build(const int& k){
-    cout << "k is " << k << '\n'
+    cout << "k is " << k << '\n';
 }
 int main(){
     int k = 5;
