@@ -1,3 +1,4 @@
+//Leetcode 1 : Two Sum
 #include <bits/stdc++.h>
 using namespace std;
 vector<int> twosum(vector<int>& v, int& target){
@@ -20,7 +21,3 @@ int main(){
     }
     return 0;
 }
-
-// 5 -> 1
-
-// not present : 5 -> 0
