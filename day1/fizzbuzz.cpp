@@ -1,3 +1,4 @@
+//Leetcode 412 : Fizz Buzz
 #include <bits/stdc++.h>
 using namespace std;
 //You are given a number as input aka 15. You must print the fizzbuzz value of each number from 1 to 15.
